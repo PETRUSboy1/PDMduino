@@ -1,4 +1,5 @@
 # PDMduino
-The goal with this is to reduce the amount of wiring in a (race)car.
+This is a power distribution module that utilizes an arduino nano as microcontroller.
+And with a mcp2515 module the outputs can be switched via CAN-bus.
 
-(you can help me code if you're interested)
+(You can help me if you're interested in builing an affordable diy PDM.)
